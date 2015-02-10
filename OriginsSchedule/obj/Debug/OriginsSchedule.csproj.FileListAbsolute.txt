@@ -1,0 +1,50 @@
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\OriginsSchedule.dll.config
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\OriginsSchedule.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\OriginsSchedule.pdb
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\OriginsSchedule.csproj.App.config
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\OriginsSchedule.csprojResolveAssemblyReference.cache
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\MainPage.xaml.g.cs
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\HelpPage.xaml.g.cs
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\LicensePage.xaml.g.cs
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\Page2.xaml.g.cs
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\TabbedFirstPage.xaml.g.cs
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\OriginsSchedule.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\OriginsSchedule.pdb
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\OriginsSchedule.dll.config
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\OriginsSchedule.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\OriginsSchedule.pdb
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\OriginsSchedule.csproj.App.config
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\MainPage.xaml.g.cs
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\EventsView.xaml.g.cs
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\HelpPage.xaml.g.cs
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\LicensePage.xaml.g.cs
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\Page2.xaml.g.cs
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\TabbedFirstPage.xaml.g.cs
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\EventDetailView.xaml.g.cs
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\OriginsSchedule.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\OriginsSchedule.pdb
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule\obj\Debug\OriginsSchedule.csprojResolveAssemblyReference.cache

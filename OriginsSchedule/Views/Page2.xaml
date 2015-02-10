@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	x:Class="OriginsSchedule.Views.Page2"
+	Title="Page 2" >
+  <ContentPage.Content>
+    <StackLayout Padding="40">
+      <Label Text="Full Name" />
+      <Label Text="{Binding FullName}"/>
+      <Label Text="Full Address"/>
+      <Label Text="{Binding FullAddress}" />
+      <Label Text="Phone"/>
+      <Label Text="{Binding Phone}"/>
+      <Label Text="Email" />
+      <Label Text="{Binding Email}" />
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

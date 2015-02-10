@@ -1,0 +1,80 @@
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.Droid.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.Droid.pdb
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.Droid.dll.mdb
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.Droid.apk
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.Droid-Signed.apk
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.pdb
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.dll.mdb
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.pdb
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.dll.mdb
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.pdb
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll.mdb
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\OriginsSchedule.Droid.csprojResolveAssemblyReference.cache
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\OriginsSchedule.Droid.dll
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\OriginsSchedule.Droid.pdb
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\android\bin\OriginsSchedule.Droid.apk
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\R.cs.flag
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\uploadflags.txt
+C:\Users\wchew\Documents\Visual Studio 2015\Projects\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.Droid.dll.config
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.Droid.dll.config
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.Droid.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.Droid.pdb
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.Droid.dll.mdb
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.Droid.apk
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.Droid-Signed.apk
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.pdb
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\OriginsSchedule.dll.mdb
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.pdb
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.dll.mdb
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.pdb
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll.mdb
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\OriginsSchedule.Droid.csprojResolveAssemblyReference.cache
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\OriginsSchedule.Droid.dll
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\OriginsSchedule.Droid.pdb
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\android\bin\OriginsSchedule.Droid.apk
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\R.cs.flag
+C:\Users\bill7\SkyDrive\Projects\Xamarin\OriginsSchedule\OriginsSchedule\OriginsSchedule.Droid\obj\Debug\uploadflags.txt

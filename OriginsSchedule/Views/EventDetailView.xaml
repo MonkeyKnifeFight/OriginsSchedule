@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	x:Class="OriginsSchedule.Views.EventDetailView"
+	Title="Event Detail" >
+  <ContentPage.Content>
+    <StackLayout Padding="40">
+      <Label Text="Event Name" />
+      <Label Text="{Binding eventname}"/>
+      <Label Text="Description"/>
+      <Label Text="{Binding featuretextdescription}" />
+      <Label Text="Price"/>
+      <Label Text="{Binding price}"/>
+      <Label Text="Start Time" />
+      <Label Text="{Binding eventdatestarttime}" />
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>
